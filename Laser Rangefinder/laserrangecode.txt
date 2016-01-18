@@ -1,5 +1,5 @@
 				## program orignally written by Shane Ormonde
-				## program written by Udbhav Pangotra and Bikram Kumar Panda
+				## program further modified by Udbhav Pangotra and Bikram Kumar Panda
 				## Submitted On 13-1-2016
 				## calculates the distance of a red dot in the field of view of the webcam.
  
